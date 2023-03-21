@@ -67,7 +67,8 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 9. Would you like your ingredients served chilled or room temp?
 10. Would you like your ingredients tossed or presented as is?
 
-![alt text]
+<img width="323" alt="Screenshot 2023-03-21 at 3 49 19 PM" src="https://user-images.githubusercontent.com/127264407/226760186-e5cbf899-baf3-4dbd-b5fc-ea575bb2a604.png">
+
 
 ---
 ---
