@@ -18,7 +18,7 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 
 
 ### Chicken Soup
- What type of stock is used in your chicken soup?
+1. What type of stock is used in your chicken soup?
 2. Is your chicken soup made with organic ingredients?
 3. What herbs and spices are used in your chicken soup?
 4. Is your chicken soup gluten-free?
