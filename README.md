@@ -16,7 +16,7 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 9. How much mayo would you like to add in?
 10. What type of cheese do you want to add?
 
-![alt text]
+<img width="420" alt="Screenshot 2023-03-21 at 4 38 33 PM" src="https://user-images.githubusercontent.com/127264407/226765597-a0f6f592-e305-437d-85d1-19b7138d7e58.png">
 
 ----
 ----
@@ -33,7 +33,7 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 9. What type of chicken is used in your chicken soup?
 10. How long does it take to prepare your chicken soup?
 
-![alt text]
+<img width="365" alt="Screenshot 2023-03-21 at 2 38 40 PM" src="https://user-images.githubusercontent.com/127264407/226762053-0bb82528-8e2a-4d6f-b73c-44e8213e3422.png">
 
 ---
 ---
@@ -50,7 +50,7 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 9. Is there a way to customize the chili and rice?
 10. Does the chili contain any meat or dairy products?
 
-![alt text]
+<img width="313" alt="Screenshot 2023-03-21 at 3 13 18 PM" src="https://user-images.githubusercontent.com/127264407/226760886-af47a3a1-a825-475a-b8b3-7f5bac822b62.png">
 
 ---
 ---
