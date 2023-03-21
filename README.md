@@ -2,6 +2,8 @@
 Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support families with basic tasks in their household. This repo displays interview question/ requirements for 4 different receipes.
 
 ## Recipes:
+
+
 ### A Tuna Sandwich
 1.What type of bread are you using?
 2.What condiments would you like to add?
@@ -16,29 +18,29 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 
 
 ### Chicken Soup
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+ What type of stock is used in your chicken soup?
+2. Is your chicken soup made with organic ingredients?
+3. What herbs and spices are used in your chicken soup?
+4. Is your chicken soup gluten-free?
+5. Is your chicken soup vegetarian-friendly?
+6. How many calories are in a serving of your chicken soup?
+7. Is your chicken soup dairy-free?
+8. Is your chicken soup made with MSG?
+9. What type of chicken is used in your chicken soup?
+10. How long does it take to prepare your chicken soup?
 
 
 ### Chili and Rice
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. What type of chili do you serve?
+2. Is the rice plain or seasoned?
+3. What types of toppings are available?
+4. Is the chili vegetarian friendly?
+5. Is the chili gluten-free?
+6. Is there a vegan version of the chili available?
+7. Are there any additional sides available?
+8. How spicy is the chili?
+9. Is there a way to customize the chili and rice?
+10. Does the chili contain any meat or dairy products?
 
 ### Chef Salad
 1. What is the serving size of this salad?
