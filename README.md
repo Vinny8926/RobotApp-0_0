@@ -76,4 +76,4 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 [Github link](https://github.com/ebelbell/RobotApp-0_0)
 
 ### Trello
-[Trello](https://www.example.com](https://trello.com/b/Vjm4yWnK/user-stories)
+[Trello](https://trello.com/b/Vjm4yWnK/user-stories)
