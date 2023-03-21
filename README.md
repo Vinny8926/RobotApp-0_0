@@ -5,17 +5,21 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 
 
 ### A Tuna Sandwich
-1. What type of bread are you using?
-2. What condiments would you like to add?
-3. Do you like the sandwhich without the crust?
-4. What is the ratio of tuna added compared to other toppings?
-5. What kind of sauces are you the sandwhich in?
-6. Do you like your bread toasted?
-7. What type of seasoning would you like?
-8. Do you like chunk-light or albacore white tuna?
-9. How much mayo would you like to add in?
-10. What type of cheese do you want to add?
+1.What type of bread are you using?
+2.What condiments would you like to add?
+3.Do you like the sandwhich without the crust?
+4.What is the ratio of tuna added compared to other toppings?
+5.What kind of sauces are you the sandwhich in?
+6.Do you like your bread toasted?
+7.What type of seasoning would you like?
+8.Do you like chunk-light or albacore white tuna?
+9.How much mayo would you like to add in?
+10.What type of cheese do you want to add?
 
+![alt text]
+
+----
+----
 
 ### Chicken Soup
 1. What type of stock is used in your chicken soup?
@@ -29,6 +33,10 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 9. What type of chicken is used in your chicken soup?
 10. How long does it take to prepare your chicken soup?
 
+![alt text]
+
+---
+---
 
 ### Chili and Rice
 1. What type of chili do you serve?
@@ -42,6 +50,11 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 9. Is there a way to customize the chili and rice?
 10. Does the chili contain any meat or dairy products?
 
+![alt text]
+
+---
+---
+
 ### Chef Salad
 1. What is the serving size of this salad?
 2. What type of meat would you like? (Ham, Turkey, Chicken, Tofu, None)
@@ -54,5 +67,9 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 9. Would you like your ingredients served chilled or room temp?
 10. Would you like your ingredients tossed or presented as is?
 
+![alt text]
+
+---
+---
 
 [Github link](https://github.com/ebelbell/RobotApp-0_0)
