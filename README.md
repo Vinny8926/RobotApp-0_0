@@ -77,3 +77,6 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 
 ### Trello
 [Trello](https://trello.com/b/Vjm4yWnK/user-stories)
+
+### Extra Credit
+[Miro](https://miro.com/app/board/uXjVMaiU6Lk=/)
