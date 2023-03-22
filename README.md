@@ -1,5 +1,4 @@
-# 🤖 RobotApp-0_0
-Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support families with basic tasks in their household. This repo displays interview question/ requirements for 4 different receipes.
+# RoboTasker5000
 
 ## Recipes:
 
@@ -73,10 +72,39 @@ Scenario: Our company is launching the RoboTasker 5000 (RT5000) to support famil
 ---
 ---
 
+## Prioritized Design Requirements
+1. The meal creation feature should enable parents to quickly and easily select meals from a predefined list of simple recipes, view the ingredients required for each recipe, and add those ingredients to a shopping list.
+
+2. The estimated time should be displayed prominently on the recipe page and should be visible to all users who view the recipe. It should be included as part of the recipe details section, along with other relevant information such as serving size and difficulty level.
+
+3. Parents should be able to mark recipes as favorites for quick access and provide options to filter recipes by dietary requirements such as vegetarian, gluten-free, or low-carb.
+
+4. The nutrition information feature should include the number of calories, carbohydrates, proteins, and fats in each serving size. The information should be presented in an easily digestible format, such as a table or chart, and should displayed information in different measurement units, such as grams, ounces, or cups.
+
+5. Users should be able to save meal plans for the week and share them with family members to streamline grocery shopping and meal preparation.
+
+6. The meal preparation feature should include an option for users to select chilled and ready-to-go meals, which can be consumed without the need for reheating.
+
+7. The content delivery feature should detect the user's internet connection speed and automatically adjust the image quality to ensure that the content can be accessed without interruptions or delays.
+
+8. Users should adjust serving sizes for each recipe and provide step-by-step instructions to guide them through the cooking process.
+
+9. As a user, I want to be able to access recipes offline so that I can look up recipes even when I don't have an internet connection.
+
+10. As a user, I want to be able to save different versions of the same recipe so that I can easily compare different recipes with each other.
+
+---
+---
+
+
+### Github
 [Github link](https://github.com/ebelbell/RobotApp-0_0)
 
 ### Trello
 [Trello](https://trello.com/b/Vjm4yWnK/user-stories)
 
-### Extra Credit
+### Wireframes
 [Miro](https://miro.com/app/board/uXjVMaiU6Lk=/)
+
+## Created by
+Vinny, Tsedenia, and Elyzha
